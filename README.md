@@ -1,4 +1,4 @@
-# Small-Business IT Infrastructure Build
+# Kilgore Automotive IT Infrastructure Build
 
 Network and server build for a local automotive service business. Independent contractor project, ongoing.
 
